@@ -57,6 +57,8 @@ yarn-error.log*
 # Database
 *.sqlite3
 *.db
+db/*/
+chroma*/
 
 # Test coverage
 htmlcov/
